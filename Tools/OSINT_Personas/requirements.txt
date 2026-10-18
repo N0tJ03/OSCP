@@ -1,0 +1,8 @@
+requests
+rich
+phonenumbers
+
+# Opcionales: dan más resultados. Si alguno falla al instalar, el programa sigue.
+holehe
+sherlock-project
+maigret

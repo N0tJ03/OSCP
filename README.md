@@ -19,7 +19,7 @@ Lo voy actualizando a medida que avanzo en el máster y en la práctica de máqu
  
 ```
 OSCP/
-├── Cheatsheets/    # Comandos de referencia rápida por tema
+├── Comandos/    # Comandos de referencia rápida por tema
 ├── Maquinas/       # Writeups de máquinas resueltas
 ├── Tools/          # Scripts propios y recopilados
 └── README.md
